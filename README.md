@@ -25,7 +25,7 @@
     </a>
 </p>
 <p align="center">一个神奇的工具箱，拿回你的个人信息。</p>
-<p align="center">👉⚡<a href="https://infospider.vercel.app/">使用说明</a> ⚡| <a href="https://www.bilibili.com/video/BV14f4y1R7oF/">视频演示</a> | <a href="https://github.com/kangvcar/InfoSpider/blob/master/README_EN.md">English</a> | <a href="https://mianbaoduo.com/o/bread/aZiTlJo=">🥰获取最新维护版本🥰</a></p>
+<p align="center">👉⚡<a href="https://infospider.vercel.app/">使用说明</a> ⚡| <a href="https://www.bilibili.com/video/BV14f4y1R7oF/">视频演示</a> | <a href="https://github.com/kangvcar/InfoSpider/blob/master/README_EN.md">English</a> | <a href="https://mbd.pub/o/bread/aZiTlJo=">🥰获取最新维护版本🥰</a></p>
 
 ### 开发者回忆录
 <details>
@@ -90,7 +90,7 @@ INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱，旨在安�
 
 3. 安装依赖库 `pip install -r requirements.txt`
 
-> 如果您在这一步操作遇到问题，可以获取[免安装版InfoSpider](https://mianbaoduo.com/o/bread/aZiTlJo=)
+> 如果您在这一步操作遇到问题，可以获取[免安装版InfoSpider](https://mbd.pub/o/bread/aZiTlJo=)
 
 #### 工具运行
 
@@ -106,7 +106,7 @@ INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱，旨在安�
 
 ### 购买服务
 
-> ***限量发售中...***，[去看看](https://mianbaoduo.com/o/bread/aZiTlJo=)
+> ***限量发售中...***，[去看看](https://mbd.pub/o/bread/aZiTlJo=)
 
 1. InfoSpider 最新维护版本
 2. 更全面的个人数据分析
@@ -118,8 +118,8 @@ INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱，旨在安�
 
 
 <p align="center">
-<img src="https://i.loli.net/2020/10/20/IRbLzEmBv9Ktwp4.jpg" alt="wechat" height=50% width=50%/></br>
-<a href="https://mianbaoduo.com/o/bread/aZiTlJo="><b>购买链接</b></a>
+<img src="https://i.loli.net/2020/10/20/IRbLzEmBv9Ktwp4.jpg" alt="wechat" height=20% width=20%/></br>
+<a href="https://mbd.pub/o/bread/aZiTlJo="><b>购买链接</b></a>
 </p>
 
 ### 数据源
